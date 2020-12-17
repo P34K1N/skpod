@@ -111,6 +111,7 @@ int main (int argc, char * argv[])
             A[i][j] = calloc(n, sizeof(***A));
         }
     }
+    
     /*
     init(n, A);
 
